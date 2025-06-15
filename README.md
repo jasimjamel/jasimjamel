@@ -28,6 +28,9 @@ I'm into **frontend development**, **web design**, and exploring the backend sid
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 📱 Mobile Frameworks
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
