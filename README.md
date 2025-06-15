@@ -3,19 +3,21 @@
 ## About Me 🧑‍💻
 
 I’m a BSIT student majoring in Web Development,  
-with a strong interest in **frontend development**.
+with a strong interest in **frontend development** and **web design**.
 
-- 🎨 Passionate about creating clean and responsive user interfaces  
-- 🔒 Exploring web security and best practices for safe development  
-- 🚀 Continuously learning through real-world projects and challenges  
+- 🎨 Passionate about creating clean, modern, and responsive UIs  
+- 🧠 Enjoy turning ideas into interactive and user-friendly websites  
+- 🔒 Learning best practices in web security for safe development  
+- 🚀 Continuously improving through hands-on projects and design experiments  
 
 ## 📫 How to reach me
 
-📧 Email: jasimjamel23@gmail.com
+📧 Email: jasim@example.com *(replace with your actual email)*
 
 ---
 
 _“Still learning, still building.” ⚙️_
+
 
 
 
