@@ -6,7 +6,7 @@ I’m a BSIT student majoring in Web Development.
 I'm into **frontend development**, **web design**, and exploring the backend side with PHP and SQL.
 
 - 🎨 I enjoy creating clean, modern, and responsive interfaces  
-- 🔧 Currently learning how frontend and backend connect  
+- 🔧 Currently learning and building with frontend technologies
 - 🧠 Always experimenting and building things to improve my skills  
 
 ---
