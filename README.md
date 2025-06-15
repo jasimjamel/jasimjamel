@@ -14,8 +14,7 @@ with a strong interest in **frontend development** and **web design**.
 
 ## 📫 How to reach me
 
-📧 Email: jasim@example.com *(replace with your actual email)*
-
+📧 Email: jasimjamel23@gmail.com
 ---
 
 _“Still learning, still building.” ⚙️_
