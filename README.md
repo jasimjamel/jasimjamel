@@ -1,4 +1,4 @@
-# Hi there, I am Jasim 👋
+# Hi there, I am Jas👋
 
 ## About Me 🧑‍💻
 
